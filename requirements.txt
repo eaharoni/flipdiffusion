@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+scipy
+tqdm
+setuptools
+ipython
+-i http://dist.repoze.org/zope2/2.10/simple
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+torchaudio==0.12.1
